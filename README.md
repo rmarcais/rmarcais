@@ -9,13 +9,20 @@
 
 ### My Portfolio project :construction_worker_man:
 
-- Firmy portfolio, I worked indeividually on a web/mobile application. It's an X... application, built with X... I learned how to be organised to deliver a working MVP (bug free) in a manner of a few weeks... I learned X techno... I enjoyed working on this project and I would like to develop it after my studies... If you want to check this project, you can see this video...
+![In progress](https://i.gifer.com/origin/82/82a1ed531e333926a8ca2a00c277e0d1.gif)
+
 
 #### **If you want to reach me out, you can message me on:**
 
-- [LinkedIn](link)
-- [Twitter](link)
+- [LinkedIn](https://www.linkedin.com/in/remi-marcais/)
 
 #### **My latest Medium articles:**
 <!-- MEDIUM-STORY-LIST:START -->
 <!-- MEDIUM-STORY-LIST:END -->
+
+### Languages and Tools
+
+(Icons of technos)
+
+Pour rajouter des icones:
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
