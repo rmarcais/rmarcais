@@ -36,11 +36,11 @@ My name's Rémi Marçais and as a software development student, I am constantly 
 
 ## **My latest Medium articles ✍️:**
 <!-- MEDIUM-STORY-LIST:START -->
+- [Let’s put ourselves in a Designer’s shoes](https://bootcamp.uxdesign.cc/lets-put-ourselves-in-a-designer-s-shoes-9e0203d3aa?source=rss-7bea88dc1b13------2)
 - [Internet of Things &lpar;IoT&rpar;](https://medium.com/@3243/internet-of-things-iot-460626e51d2a?source=rss-7bea88dc1b13------2)
 - [Understand the concept of recursion](https://medium.com/@3243/understand-the-concept-of-recursion-aa824464f744?source=rss-7bea88dc1b13------2)
 - [Python3: Mutable, Immutable… everything is object!](https://medium.com/@3243/python3-mutable-immutable-everything-is-object-44915ac5f41c?source=rss-7bea88dc1b13------2)
 - [The differences between static and dynamic libraries](https://medium.com/@3243/the-differences-between-static-and-dynamic-libraries-5040e5f5e470?source=rss-7bea88dc1b13------2)
-- [The worst abuse of the C preprocessor](https://medium.com/@3243/the-worst-abuse-of-the-c-preprocessor-d81d392a1ef7?source=rss-7bea88dc1b13------2)
 <!-- MEDIUM-STORY-LIST:END -->
 </div>
 
