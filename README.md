@@ -1,22 +1,40 @@
-## Hi there :wave:
-### My story :open_book:
+<div align="center">
+<h2><strong>Hi there 👋:</strong></h2>
 
-- Hello ! My name's Rémi Marçais and I'm currently a student in Holberton School LAVAL. I'd be finishing my studies in 3 months and I'm looking for an internship in Web Development or in Machine Learning because I'm really interested by creating application containing IA.
+My name's Rémi Marçais and as a software development student, I am constantly learning and growing as a developer. My GitHub profile serves as a portfolio of my progress, showcasing my personal projects and contributions to open-source projects. My goal is to continue to learn and improve my skills, and I welcome any feedback or suggestions. Thank you for visiting and taking a look at my work!
 
-- During my first year at Holberton, I worked mainly in C language, Python and bash scripting. Thus I'm comfortable with these languages and especially with web development in Pyhton. Indeed, I worked on different projects using Python3, MySql and Flask as a web framework and this is why I'm looking for an opportunity to deepen my knowledges in WebDev or Machine Learning.
-
-- I recreated the printf function, a simple version of the Linux Shell and cloned the AirBnB website (throughout the 2nd and 3rd trimester) with three different groups. Thanks to the school learning approach we learned to work collaboratively, in person and remotely.
-
-### My Portfolio project :construction_worker_man:
-
-![In progress](https://i.gifer.com/origin/82/82a1ed531e333926a8ca2a00c277e0d1.gif)
+**If you want to reach me out, you can message me on [LinkedIn](https://www.linkedin.com/in/remi-marcais/)**
+</div>
 
 
-#### **If you want to reach me out, you can message me on:**
+<div align="center">
+<h2><strong>My stats 🔥:</strong></h2>
+<img src="https://github-readme-stats.vercel.app/api?username=rmarcais&show_icons=true&theme=tokyonight" alt="Rémi's Github stats">
+</div>
 
-- [LinkedIn](https://www.linkedin.com/in/remi-marcais/)
 
-#### **My latest Medium articles:**
+<div align="center">
+<h2><strong>Most used languages 🏅:</strong></h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmarcais&langs_count=6&theme=tokyonight" alt="Top Langs">
+</div>
+
+
+<div align="center">
+<h2><strong>Languages and tools ⚒️:</strong></h2>
+
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code> <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="70" src="https://i1.wp.com/www.primefaces.org/wp-content/uploads/2021/10/primeng-logo-white.png?fit=280%2C300&ssl=1"></code>
+<code><img height="70" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
+</div>
+
+
+<div align="center">
+
+## **My latest Medium articles ✍️:**
 <!-- MEDIUM-STORY-LIST:START -->
 - [Internet of Things &lpar;IoT&rpar;](https://medium.com/@3243/internet-of-things-iot-460626e51d2a?source=rss-7bea88dc1b13------2)
 - [Understand the concept of recursion](https://medium.com/@3243/understand-the-concept-of-recursion-aa824464f744?source=rss-7bea88dc1b13------2)
@@ -24,9 +42,8 @@
 - [The differences between static and dynamic libraries](https://medium.com/@3243/the-differences-between-static-and-dynamic-libraries-5040e5f5e470?source=rss-7bea88dc1b13------2)
 - [The worst abuse of the C preprocessor](https://medium.com/@3243/the-worst-abuse-of-the-c-preprocessor-d81d392a1ef7?source=rss-7bea88dc1b13------2)
 <!-- MEDIUM-STORY-LIST:END -->
+</div>
 
-### Languages and Tools
-
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code> <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-
-![MEME](https://miro.medium.com/max/1200/1*iNw33pBEYZIAoE9oHdhLLw.jpeg)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rmarcais&style=for-the-badge" alt="Github Views" width="200px">
+</div>
