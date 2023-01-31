@@ -11,14 +11,14 @@ My name's Rémi Marçais and as a software development student, I am constantly 
 <div align="center">
 
 ## **My stats 🔥:**
-<img src="https://github-readme-stats.vercel.app/api?username=rmarcais&show_icons=true&theme=tokyonight" alt="Rémi's Github stats">
+<img src="https://github-readme-stats.vercel.app/api/?username=rmarcais&count_private=true&theme=tokyonight&showicons=true" alt="Rémi's Github stats">
 </div>
 
 
 <div align="center">
 
 ## **Most used languages 🏅:**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmarcais&langs_count=6&theme=tokyonight" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmarcais&langs_count=5&theme=tokyonight" alt="Top Langs">
 </div>
 
 
