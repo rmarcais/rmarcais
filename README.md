@@ -4,7 +4,7 @@
 
 My name's Rémi Marçais and as a software development student, I am constantly learning and growing as a developer. My GitHub profile serves as a portfolio of my progress, showcasing my personal projects and contributions to open-source projects. My goal is to continue to learn and improve my skills, and I welcome any feedback or suggestions. Thank you for visiting and taking a look at my work!
 
-**If you want to reach me out, you can message me on [LinkedIn](https://www.linkedin.com/in/remi-marcais/)**
+**If you want to reach me out, you can message me on [LinkedIn](https://www.linkedin.com/in/remi-marcais/) and if you want to see my online resume, it's [here](https://rmarcais.github.io/) ;)**
 </div>
 
 
