@@ -1,6 +1,6 @@
 <div align="center">
 
-## **Hi there 👋:**
+## **Hi there !👋:**
 
 My name's Rémi Marçais and as a software development student, I am constantly learning and growing as a developer. My GitHub profile serves as a portfolio of my progress, showcasing my personal projects and contributions to open-source projects. My goal is to continue to learn and improve my skills, and I welcome any feedback or suggestions. Thank you for visiting and taking a look at my work!
 
