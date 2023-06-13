@@ -2,7 +2,7 @@
 
 ## **Hi there !👋:**
 
-My name's Rémi Marçais and as a software development student, I am constantly learning and growing as a developer. My GitHub profile serves as a portfolio of my progress, showcasing my personal projects and contributions to open-source projects. My goal is to continue to learn and improve my skills, and I welcome any feedback or suggestions. Thank you for visiting and taking a look at my work!
+My name's Rémi Marçais and as a software development student, I am constantly learning and growing as a software engineer. My GitHub profile serves as a portfolio of my progress, showcasing my personal projects and contributions to open-source projects. My goal is to continue to learn and improve my skills, and I welcome any feedback or suggestions. Thank you for visiting and taking a look at my work!
 
 **If you want to reach me out, you can message me on [LinkedIn](https://www.linkedin.com/in/remi-marcais/) and if you want to see my online resume, it's [here](https://rmarcais.github.io/) ;)**
 </div>
@@ -33,6 +33,9 @@ My name's Rémi Marçais and as a software development student, I am constantly 
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="70" src="https://i1.wp.com/www.primefaces.org/wp-content/uploads/2021/10/primeng-logo-white.png?fit=280%2C300&ssl=1"></code>
 <code><img height="70" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
+<code><img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></code>
+<code><img height="70" src="https://www.svgrepo.com/download/331488/mongodb.svg"></code>
+<code><img height="70" src="https://cdn.worldvectorlogo.com/logos/redis.svg"></code>
 </div>
 
 
