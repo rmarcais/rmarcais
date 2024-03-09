@@ -44,10 +44,10 @@ My name's Rémi Marçais and as a software development student, I am constantly 
 ## **My latest Medium articles ✍️:**
 <!-- MEDIUM-STORY-LIST:START -->
 - [Let’s put ourselves in a Designer’s shoes](https://bootcamp.uxdesign.cc/lets-put-ourselves-in-a-designer-s-shoes-9e0203d3aa?source=rss-7bea88dc1b13------2)
+- [My portfolio project: Motiv’](https://medium.com/@rmarcais/my-portfolio-project-motiv-9cb330141268?source=rss-7bea88dc1b13------2)
+- [What happens when you type google.com in your browser and press Enter ?](https://medium.com/@rmarcais/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-db916165fb?source=rss-7bea88dc1b13------2)
 - [Internet of Things &lpar;IoT&rpar;](https://medium.com/@rmarcais/internet-of-things-iot-460626e51d2a?source=rss-7bea88dc1b13------2)
 - [Understand the concept of recursion](https://medium.com/@rmarcais/understand-the-concept-of-recursion-aa824464f744?source=rss-7bea88dc1b13------2)
-- [Python3: Mutable, Immutable… everything is object!](https://medium.com/@rmarcais/python3-mutable-immutable-everything-is-object-44915ac5f41c?source=rss-7bea88dc1b13------2)
-- [The differences between static and dynamic libraries](https://medium.com/@rmarcais/the-differences-between-static-and-dynamic-libraries-5040e5f5e470?source=rss-7bea88dc1b13------2)
 <!-- MEDIUM-STORY-LIST:END -->
 </div>
 
