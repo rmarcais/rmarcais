@@ -43,7 +43,7 @@ My name's Rémi Marçais and as a software development student, I am constantly 
 
 ## **My latest Medium articles ✍️:**
 <!-- MEDIUM-STORY-LIST:START -->
-- [Let’s put ourselves in a Designer’s shoes](https://bootcamp.uxdesign.cc/lets-put-ourselves-in-a-designer-s-shoes-9e0203d3aa?source=rss-7bea88dc1b13------2)
+- [Let’s put ourselves in a Designer’s shoes](https://medium.com/design-bootcamp/lets-put-ourselves-in-a-designer-s-shoes-9e0203d3aa?source=rss-7bea88dc1b13------2)
 - [My portfolio project: Motiv’](https://medium.com/@rmarcais/my-portfolio-project-motiv-9cb330141268?source=rss-7bea88dc1b13------2)
 - [What happens when you type google.com in your browser and press Enter ?](https://medium.com/@rmarcais/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-db916165fb?source=rss-7bea88dc1b13------2)
 - [Internet of Things &lpar;IoT&rpar;](https://medium.com/@rmarcais/internet-of-things-iot-460626e51d2a?source=rss-7bea88dc1b13------2)
